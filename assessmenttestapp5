@@ -1,2 +1,4 @@
 # This program prints "devopsassessment"
 print('devopsassessment')
+str= input("Enter a string: ")
+print("Number of letters in the word devopsassessment is:", len(str))
